@@ -1,0 +1,365 @@
+LLM_score,date,company
+1,2022-11-23T12:00:12+00:00,Olympic Steel Inc
+1,2022-11-23T12:02:12+00:00,Farmers National Banc Corp
+1,2022-11-23T12:02:12+00:00,WesBanco Inc
+0,2022-11-23T12:03:31+00:00,Marten Transport Ltd
+0,2022-11-23T12:05:00+00:00,HBT Financial Inc
+1,2022-11-23T12:07:05+00:00,Northrim BanCorp Inc Common Stock
+0,2022-11-23T12:08:00+00:00,Gladstone Commercial Corporation 6
+0,2022-11-23T12:08:00+00:00,Gladstone Commercial Corporation Real Estate Investment Trust
+-1,2022-11-23T12:11:57+00:00,PayPal Holdings Inc
+1,2022-11-23T12:12:15+00:00,ePlus inc
+1,2022-11-23T12:15:00+00:00,Azenta Inc
+0,2022-11-23T12:17:12+00:00,Enphase Energy Inc
+0,2022-11-23T12:19:07+00:00,Jack In The Box Inc
+0,2022-11-23T12:30:00+00:00,Ingles Markets Incorporated Class A Common Stock
+0,2022-11-23T12:30:00+00:00,Ollie's Bargain Outlet Holdings Inc
+0,2022-11-23T12:30:00+00:00,Scholastic Corporation Common Stock
+0,2022-11-23T12:30:00+00:00,Xilio Therapeutics Inc
+1,2022-11-23T12:34:04+00:00,Mirati Therapeutics Inc
+1,2022-11-23T12:45:02+00:00,Gilead Sciences Inc
+0,2022-11-23T12:45:12+00:00,Hudson Technologies Inc
+0,2022-11-23T12:45:12+00:00,NorthEast Community Bancorp Inc
+0,2022-11-23T12:50:33+00:00,Airbnb Inc
+1,2022-11-23T12:50:45+00:00,Honeywell International Inc
+1,2022-11-23T12:50:45+00:00,Honeywell International Inc
+-1,2022-11-23T12:51:05+00:00,American Woodmark Corporation Common Stock
+0,2022-11-23T12:52:49+00:00,Apogee Enterprises Inc
+0,2022-11-23T12:53:12+00:00,AGNC Investment Corp
+0,2022-11-23T12:53:12+00:00,AGNC Investment Corp
+0,2022-11-23T12:53:12+00:00,AGNC Investment Corp
+0,2022-11-23T12:53:12+00:00,AGNC Investment Corp
+0,2022-11-23T12:54:33+00:00,PC Connection Inc
+1,2022-11-23T12:56:18+00:00,Columbia Sportswear Company Common Stock
+-1,2022-11-23T12:57:00+00:00,Fox Corporation Class A Common Stock
+-1,2022-11-23T12:57:00+00:00,Fox Corporation Class B Common Stock
+-1,2022-11-23T12:57:00+00:00,News Corporation Class A Common Stock
+-1,2022-11-23T12:57:00+00:00,News Corporation Class B Common Stock
+0,2022-11-23T12:58:00+00:00,GrowGeneration Corp
+0,2022-11-23T12:58:12+00:00,MarketAxess Holdings Inc
+0,2022-11-23T13:00:00+00:00,Absci Corporation Common Stock
+1,2022-11-23T13:00:00+00:00,AirSculpt Technologies Inc
+0,2022-11-23T13:00:00+00:00,Allegro MicroSystems Inc
+0,2022-11-23T13:00:00+00:00,Atara Biotherapeutics Inc
+0,2022-11-23T13:00:00+00:00,Autodesk Inc
+0,2022-11-23T13:00:00+00:00,Cidara Therapeutics Inc
+0,2022-11-23T13:00:00+00:00,Consolidated Communications Holdings Inc
+0,2022-11-23T13:00:00+00:00,Humacyte Inc
+0,2022-11-23T13:00:00+00:00,Olaplex Holdings Inc
+1,2022-11-23T13:00:00+00:00,Replimune Group Inc
+0,2022-11-23T13:00:00+00:00,Seelos Therapeutics Inc
+0,2022-11-23T13:00:00+00:00,The Carlyle Group Inc
+0,2022-11-23T13:00:00+00:00,Twist Bioscience Corporation Common Stock
+0,2022-11-23T13:00:26+00:00,Dollar Tree Inc
+-1,2022-11-23T13:02:44+00:00,Fox Corporation Class A Common Stock
+-1,2022-11-23T13:02:44+00:00,Fox Corporation Class B Common Stock
+-1,2022-11-23T13:02:44+00:00,News Corporation Class A Common Stock
+-1,2022-11-23T13:02:44+00:00,News Corporation Class B Common Stock
+0,2022-11-23T13:05:00+00:00,Harmonic Inc
+0,2022-11-23T13:05:00+00:00,Power Integrations Inc
+0,2022-11-23T13:05:01+00:00,Autodesk Inc
+0,2022-11-23T13:05:01+00:00,CECO Environmental Corp
+0,2022-11-23T13:05:01+00:00,Heritage-Crystal Clean Inc
+0,2022-11-23T13:05:01+00:00,Tetra Tech Inc
+1,2022-11-23T13:08:01+00:00,Cross Country Healthcare Inc
+0,2022-11-23T13:12:01+00:00,Grand Canyon Education Inc
+0,2022-11-23T13:12:01+00:00,Texas Roadhouse Inc
+1,2022-11-23T13:13:00+00:00,SS&C Technologies Holdings Inc
+1,2022-11-23T13:13:01+00:00,MGP Ingredients Inc
+0,2022-11-23T13:13:47+00:00,Shoals Technologies Group Inc
+0,2022-11-23T13:13:47+00:00,Ulta Beauty Inc
+0,2022-11-23T13:14:01+00:00,ShockWave Medical Inc
+0,2022-11-23T13:15:00+00:00,Datadog Inc
+0,2022-11-23T13:15:00+00:00,Rivian Automotive Inc
+0,2022-11-23T13:15:01+00:00,VeriSign Inc
+-1,2022-11-23T13:15:10+00:00,Fox Corporation Class A Common Stock
+-1,2022-11-23T13:15:10+00:00,Fox Corporation Class B Common Stock
+-1,2022-11-23T13:15:10+00:00,News Corporation Class A Common Stock
+-1,2022-11-23T13:15:10+00:00,News Corporation Class B Common Stock
+0,2022-11-23T13:15:44+00:00,Accuray Incorporated Common Stock
+0,2022-11-23T13:15:44+00:00,AeroVironment Inc
+0,2022-11-23T13:15:44+00:00,Intuitive Surgical Inc
+1,2022-11-23T13:15:44+00:00,Teradyne Inc
+1,2022-11-23T13:15:44+00:00,iRobot Corporation Common Stock
+1,2022-11-23T13:16:05+00:00,Silvercrest Asset Management Group Inc
+1,2022-11-23T13:17:00+00:00,Matthews International Corporation Class A Common Stock
+1,2022-11-23T13:21:01+00:00,Baker Hughes Company Class A Common Stock
+1,2022-11-23T13:22:01+00:00,Olympic Steel Inc
+1,2022-11-23T13:23:25+00:00,Analog Devices Inc
+-1,2022-11-23T13:25:00+00:00,MarketWise Inc
+-1,2022-11-23T13:26:00+00:00,Rivian Automotive Inc
+1,2022-11-23T13:27:00+00:00,Construction Partners Inc
+1,2022-11-23T13:28:48+00:00,Jack In The Box Inc
+1,2022-11-23T13:29:00+00:00,BioMarin Pharmaceutical Inc
+0,2022-11-23T13:30:00+00:00,Overstock
+0,2022-11-23T13:30:00+00:00,Palo Alto Networks Inc
+0,2022-11-23T13:30:00+00:00,Premier Inc
+0,2022-11-23T13:30:00+00:00,Sarepta Therapeutics Inc
+0,2022-11-23T13:33:00+00:00,Natera Inc
+0,2022-11-23T13:33:01+00:00,Olympic Steel Inc
+0,2022-11-23T13:36:02+00:00,UFP Industries Inc
+1,2022-11-23T13:37:44+00:00,West Bancorporation Common Stock
+1,2022-11-23T13:38:00+00:00,Ebix Inc
+1,2022-11-23T13:41:01+00:00,RCI Hospitality Holdings Inc
+-1,2022-11-23T13:42:47+00:00,Shoals Technologies Group Inc
+-1,2022-11-23T13:42:47+00:00,Ulta Beauty Inc
+0,2022-11-23T13:45:00+00:00,Neogen Corporation Common Stock
+0,2022-11-23T13:45:00+00:00,Roku Inc
+0,2022-11-23T13:47:01+00:00,American Airlines Group Inc
+1,2022-11-23T13:47:01+00:00,Inter Parfums Inc
+1,2022-11-23T13:50:01+00:00,Huron Consulting Group Inc
+0,2022-11-23T13:50:03+00:00,Gibraltar Industries Inc
+1,2022-11-23T13:52:01+00:00,Harmonic Inc
+0,2022-11-23T13:53:01+00:00,Arhaus Inc
+0,2022-11-23T13:54:01+00:00,Harmony Biosciences Holdings Inc
+1,2022-11-23T13:56:01+00:00,Warner Music Group Corp
+0,2022-11-23T13:57:01+00:00,United Fire Group Inc
+0,2022-11-23T13:59:01+00:00,PepsiCo Inc
+1,2022-11-23T14:00:00+00:00,Cognizant Technology Solutions Corporation Class A Common Stock
+0,2022-11-23T14:00:00+00:00,FAT Brands Inc
+0,2022-11-23T14:00:00+00:00,FAT Brands Inc
+0,2022-11-23T14:00:00+00:00,FAT Brands Inc
+0,2022-11-23T14:00:00+00:00,FAT Brands Inc
+0,2022-11-23T14:00:00+00:00,Five9 Inc
+0,2022-11-23T14:00:00+00:00,Gilead Sciences Inc
+0,2022-11-23T14:00:00+00:00,ModivCare Inc
+-1,2022-11-23T14:00:00+00:00,Rivian Automotive Inc
+0,2022-11-23T14:00:00+00:00,SS&C Technologies Holdings Inc
+0,2022-11-23T14:00:00+00:00,Tenaya Therapeutics Inc
+0,2022-11-23T14:00:02+00:00,Broadcom Inc
+0,2022-11-23T14:00:02+00:00,Gilead Sciences Inc
+0,2022-11-23T14:00:02+00:00,Ulta Beauty Inc
+-1,2022-11-23T14:01:00+00:00,Freshworks Inc
+0,2022-11-23T14:01:22+00:00,Comcast Corporation Class A Common Stock
+0,2022-11-23T14:01:22+00:00,Huntington Bancshares Incorporated Common Stock
+0,2022-11-23T14:01:22+00:00,Walgreens Boots Alliance Inc
+0,2022-11-23T14:05:48+00:00,Autodesk Inc
+1,2022-11-23T14:08:41+00:00,Bel Fuse Inc
+1,2022-11-23T14:14:47+00:00,Arrowhead Pharmaceuticals Inc
+1,2022-11-23T14:15:02+00:00,EZCORP Inc
+1,2022-11-23T14:20:00+00:00,Caesars Entertainment Inc
+1,2022-11-23T14:20:08+00:00,Plug Power Inc
+-1,2022-11-23T14:27:07+00:00,Universal Display Corporation Common Stock
+0,2022-11-23T14:29:00+00:00,Lyft Inc
+0,2022-11-23T14:29:00+00:00,Robinhood Markets Inc
+1,2022-11-23T14:30:00+00:00,Palo Alto Networks Inc
+0,2022-11-23T14:30:44+00:00,Starbucks Corporation Common Stock
+-1,2022-11-23T14:31:47+00:00,Shoals Technologies Group Inc
+-1,2022-11-23T14:31:47+00:00,Ulta Beauty Inc
+0,2022-11-23T14:35:02+00:00,Analog Devices Inc
+0,2022-11-23T14:35:02+00:00,Jack In The Box Inc
+1,2022-11-23T14:35:02+00:00,Patterson-UTI Energy Inc
+1,2022-11-23T14:35:02+00:00,RCI Hospitality Holdings Inc
+0,2022-11-23T14:36:54+00:00,Royalty Pharma plc Class A Ordinary Shares 
+0,2022-11-23T14:40:02+00:00,Asure Software Inc Common Stock
+0,2022-11-23T14:40:02+00:00,Biogen Inc
+0,2022-11-23T14:40:02+00:00,Chuy's Holdings Inc
+0,2022-11-23T14:40:02+00:00,Clearfield Inc
+0,2022-11-23T14:40:02+00:00,EZCORP Inc
+0,2022-11-23T14:40:02+00:00,Hostess Brands Inc
+1,2022-11-23T14:40:02+00:00,J & J Snack Foods Corp
+1,2022-11-23T14:40:02+00:00,PACCAR Inc
+0,2022-11-23T14:40:02+00:00,Universal Logistics Holdings Inc
+-1,2022-11-23T14:45:23+00:00,Upland Software Inc
+1,2022-11-23T14:46:46+00:00,Peloton Interactive Inc
+0,2022-11-23T14:47:27+00:00,Investar Holding Corporation Common Stock
+-1,2022-11-23T14:49:33+00:00,American Outdoor Brands Inc
+-1,2022-11-23T14:49:33+00:00,Smith & Wesson Brands Inc
+0,2022-11-23T14:55:02+00:00,BlackLine Inc
+0,2022-11-23T14:55:02+00:00,Editas Medicine Inc
+1,2022-11-23T14:55:02+00:00,GlycoMimetics Inc
+1,2022-11-23T14:55:02+00:00,Grand Canyon Education Inc
+1,2022-11-23T14:55:02+00:00,Intra-Cellular Therapies Inc
+0,2022-11-23T14:55:02+00:00,Limoneira Co Common Stock
+1,2022-11-23T14:55:02+00:00,PDF Solutions Inc
+1,2022-11-23T14:55:02+00:00,Univest Financial Corporation Common Stock
+1,2022-11-23T14:55:02+00:00,Upland Software Inc
+0,2022-11-23T14:59:00+00:00,Adobe Inc
+-1,2022-11-23T14:59:02+00:00,Vertex Pharmaceuticals Incorporated Common Stock
+0,2022-11-23T14:59:39+00:00,PACCAR Inc
+1,2022-11-23T15:00:00+00:00,Sprouts Farmers Market Inc
+0,2022-11-23T15:00:00+00:00,T-Mobile US Inc
+-1,2022-11-23T15:00:01+00:00,Autodesk Inc
+1,2022-11-23T15:00:03+00:00,Five Below Inc
+1,2022-11-23T15:00:03+00:00,Okta Inc
+0,2022-11-23T15:00:03+00:00,Ross Stores Inc
+1,2022-11-23T15:00:03+00:00,Splunk Inc
+0,2022-11-23T15:00:03+00:00,Workday Inc
+0,2022-11-23T15:00:25+00:00,AeroVironment Inc
+0,2022-11-23T15:00:25+00:00,Honeywell International Inc
+0,2022-11-23T15:00:25+00:00,Intuitive Surgical Inc
+0,2022-11-23T15:00:25+00:00,Nauticus Robotics Inc
+0,2022-11-23T15:00:25+00:00,Novanta Inc
+0,2022-11-23T15:00:25+00:00,Omnicell Inc
+1,2022-11-23T15:01:46+00:00,RCI Hospitality Holdings Inc
+0,2022-11-23T15:05:00+00:00,Nasdaq Inc
+1,2022-11-23T15:11:03+00:00,Cheesecake Factory Incorporated (The) Common Stock
+0,2022-11-23T15:11:03+00:00,Chuy's Holdings Inc
+0,2022-11-23T15:11:03+00:00,Wingstop Inc
+0,2022-11-23T15:12:47+00:00,Shoals Technologies Group Inc
+0,2022-11-23T15:12:47+00:00,Ulta Beauty Inc
+1,2022-11-23T15:14:06+00:00,B
+1,2022-11-23T15:14:06+00:00,B
+1,2022-11-23T15:14:06+00:00,B
+1,2022-11-23T15:14:06+00:00,B
+0,2022-11-23T15:17:26+00:00,The Trade Desk Inc
+1,2022-11-23T15:18:58+00:00,Information Services Group Inc
+1,2022-11-23T15:19:34+00:00,Shoals Technologies Group Inc
+0,2022-11-23T15:20:20+00:00,Hain Celestial Group Inc
+0,2022-11-23T15:20:45+00:00,Progyny Inc
+-1,2022-11-23T15:21:24+00:00,Hasbro Inc
+1,2022-11-23T15:21:51+00:00,Enphase Energy Inc
+-1,2022-11-23T15:24:03+00:00,ShockWave Medical Inc
+0,2022-11-23T15:30:00+00:00,American Woodmark Corporation Common Stock
+-1,2022-11-23T15:30:00+00:00,Autodesk Inc
+0,2022-11-23T15:30:00+00:00,G1 Therapeutics Inc
+0,2022-11-23T15:30:00+00:00,Starbucks Corporation Common Stock
+0,2022-11-23T15:30:42+00:00,Dollar Tree Inc
+0,2022-11-23T15:36:04+00:00,Cirrus Logic Inc
+1,2022-11-23T15:40:57+00:00,CymaBay Therapeutics Inc
+1,2022-11-23T15:41:03+00:00,Biogen Inc
+1,2022-11-23T15:41:03+00:00,Regeneron Pharmaceuticals Inc
+1,2022-11-23T15:41:03+00:00,Syndax Pharmaceuticals Inc
+-1,2022-11-23T15:48:18+00:00,Franchise Group Inc
+0,2022-11-23T15:51:03+00:00,Blueprint Medicines Corporation Common Stock
+-1,2022-11-23T15:58:10+00:00,Autodesk Inc
+1,2022-11-23T16:04:00+00:00,Analog Devices Inc
+0,2022-11-23T16:13:19+00:00,WillScot Mobile Mini Holdings Corp
+0,2022-11-23T16:15:00+00:00,PayPal Holdings Inc
+1,2022-11-23T16:25:00+00:00,Lattice Semiconductor Corporation Common Stock
+0,2022-11-23T16:26:26+00:00,Air Transport Services Group Inc
+0,2022-11-23T16:30:00+00:00,TowneBank Common Stock
+1,2022-11-23T16:30:04+00:00,AGNC Investment Corp
+1,2022-11-23T16:30:04+00:00,AGNC Investment Corp
+1,2022-11-23T16:30:04+00:00,AGNC Investment Corp
+1,2022-11-23T16:30:04+00:00,AGNC Investment Corp
+1,2022-11-23T16:30:04+00:00,Cadence Design Systems Inc
+-1,2022-11-23T16:30:04+00:00,East West Bancorp Inc
+1,2022-11-23T16:30:04+00:00,Westamerica Bancorporation Common Stock
+0,2022-11-23T16:40:04+00:00,Barrett Business Services Inc
+0,2022-11-23T16:40:04+00:00,Biogen Inc
+0,2022-11-23T16:40:04+00:00,Heritage-Crystal Clean Inc
+0,2022-11-23T16:40:04+00:00,Paychex Inc
+0,2022-11-23T16:40:04+00:00,Repligen Corporation Common Stock
+0,2022-11-23T16:40:04+00:00,Wendy's Company (The) Common Stock
+0,2022-11-23T16:45:00+00:00,Allbirds Inc
+-1,2022-11-23T16:45:00+00:00,Autodesk Inc
+-1,2022-11-23T16:45:00+00:00,Rent the Runway Inc
+0,2022-11-23T16:45:00+00:00,TuSimple Holdings Inc
+-1,2022-11-23T16:45:00+00:00,Vintage Wine Estates Inc
+0,2022-11-23T16:46:04+00:00,Texas Instruments Incorporated Common Stock
+0,2022-11-23T16:50:00+00:00,Hamilton Lane Incorporated Class A Common Stock
+-1,2022-11-23T16:51:00+00:00,Cisco Systems Inc
+-1,2022-11-23T16:51:55+00:00,PayPal Holdings Inc
+-1,2022-11-23T16:57:52+00:00,Autodesk Inc
+0,2022-11-23T16:58:04+00:00,Cisco Systems Inc
+0,2022-11-23T16:58:04+00:00,Infinera Corporation Common Stock
+1,2022-11-23T17:00:00+00:00,Celsius Holdings Inc
+0,2022-11-23T17:00:00+00:00,Verint Systems Inc
+1,2022-11-23T17:00:05+00:00,Datadog Inc
+-1,2022-11-23T17:06:05+00:00,Capital Southwest Corporation Common Stock
+1,2022-11-23T17:11:43+00:00,Sterling Infrastructure Inc
+-1,2022-11-23T17:14:05+00:00,Jack In The Box Inc
+0,2022-11-23T17:15:00+00:00,Kratos Defense & Security Solutions Inc
+0,2022-11-23T17:16:33+00:00,Splunk Inc
+0,2022-11-23T17:17:36+00:00,Airbnb Inc
+0,2022-11-23T17:17:36+00:00,Zillow Group Inc
+0,2022-11-23T17:17:36+00:00,Zillow Group Inc
+1,2022-11-23T17:18:05+00:00,Apellis Pharmaceuticals Inc
+1,2022-11-23T17:18:05+00:00,CytomX Therapeutics Inc
+1,2022-11-23T17:18:05+00:00,Regeneron Pharmaceuticals Inc
+1,2022-11-23T17:20:05+00:00,Mesa Laboratories Inc
+1,2022-11-23T17:20:05+00:00,i3 Verticals Inc
+0,2022-11-23T17:21:30+00:00,ExlService Holdings Inc
+-1,2022-11-23T17:24:00+00:00,Zoom Video Communications Inc
+0,2022-11-23T17:25:00+00:00,Johnson Outdoors Inc
+0,2022-11-23T17:26:05+00:00,Crocs Inc
+1,2022-11-23T17:34:46+00:00,Autodesk Inc
+-1,2022-11-23T17:35:05+00:00,Novavax Inc
+1,2022-11-23T17:37:05+00:00,Eton Pharmaceuticals Inc
+1,2022-11-23T17:45:05+00:00,Old Second Bancorp Inc
+1,2022-11-23T17:45:05+00:00,Wingstop Inc
+1,2022-11-23T18:07:21+00:00,Lattice Semiconductor Corporation Common Stock
+0,2022-11-23T18:09:00+00:00,Cisco Systems Inc
+1,2022-11-23T18:15:00+00:00,Comcast Corporation Class A Common Stock
+1,2022-11-23T18:17:22+00:00,Mirati Therapeutics Inc
+-1,2022-11-23T18:27:00+00:00,CME Group Inc
+-1,2022-11-23T18:34:36+00:00,SoFi Technologies Inc
+1,2022-11-23T18:40:08+00:00,BioMarin Pharmaceutical Inc
+0,2022-11-23T18:41:00+00:00,1st Source Corporation Common Stock
+0,2022-11-23T18:46:00+00:00,Airbnb Inc
+0,2022-11-23T18:46:51+00:00,Zillow Group Inc
+0,2022-11-23T18:46:51+00:00,Zillow Group Inc
+1,2022-11-23T18:47:56+00:00,Broadcom Inc
+-1,2022-11-23T18:55:50+00:00,Jack In The Box Inc
+-1,2022-11-23T19:15:53+00:00,Lyft Inc
+0,2022-11-23T19:20:43+00:00,Urban Outfitters Inc
+-1,2022-11-23T19:22:59+00:00,Coinbase Global Inc
+1,2022-11-23T19:24:00+00:00,Starbucks Corporation Common Stock
+0,2022-11-23T19:31:33+00:00,Landsea Homes Corporation Common Stock
+-1,2022-11-23T19:42:57+00:00,Zoom Video Communications Inc
+1,2022-11-23T19:45:00+00:00,Biogen Inc
+0,2022-11-23T19:45:00+00:00,Urban Outfitters Inc
+0,2022-11-23T19:45:00+00:00,Zoom Video Communications Inc
+1,2022-11-23T19:50:39+00:00,AGNC Investment Corp
+1,2022-11-23T19:50:39+00:00,AGNC Investment Corp
+1,2022-11-23T19:50:39+00:00,AGNC Investment Corp
+1,2022-11-23T19:50:39+00:00,AGNC Investment Corp
+0,2022-11-23T19:51:12+00:00,Acadia Healthcare Company Inc
+0,2022-11-23T19:51:56+00:00,Enphase Energy Inc
+1,2022-11-23T19:56:00+00:00,Redfin Corporation Common Stock
+0,2022-11-23T20:00:00+00:00,Air Transport Services Group Inc
+1,2022-11-23T20:20:08+00:00,Ross Stores Inc
+0,2022-11-23T20:22:08+00:00,O'Reilly Automotive Inc
+-1,2022-11-23T20:29:00+00:00,Olaplex Holdings Inc
+0,2022-11-23T20:29:08+00:00,Peloton Interactive Inc
+0,2022-11-23T20:29:08+00:00,Zoom Video Communications Inc
+1,2022-11-23T20:30:08+00:00,American Airlines Group Inc
+1,2022-11-23T20:30:08+00:00,United Airlines Holdings Inc
+-1,2022-11-23T20:34:00+00:00,Lyft Inc
+-1,2022-11-23T20:34:00+00:00,Robinhood Markets Inc
+0,2022-11-23T20:40:00+00:00,Rent the Runway Inc
+-1,2022-11-23T20:42:00+00:00,Vintage Wine Estates Inc
+1,2022-11-23T20:52:00+00:00,Celsius Holdings Inc
+0,2022-11-23T21:00:00+00:00,Amgen Inc
+0,2022-11-23T21:00:00+00:00,Analog Devices Inc
+0,2022-11-23T21:01:00+00:00,Kiniksa Pharmaceuticals Ltd
+1,2022-11-23T21:01:00+00:00,Omnicell Inc
+0,2022-11-23T21:05:00+00:00,Augmedix Inc
+0,2022-11-23T21:05:00+00:00,Eyenovia Inc
+0,2022-11-23T21:05:00+00:00,Sportsman's Warehouse Holdings Inc
+-1,2022-11-23T21:14:35+00:00,BioMarin Pharmaceutical Inc
+0,2022-11-23T21:15:00+00:00,Atlanta Braves Holdings Inc
+0,2022-11-23T21:15:00+00:00,Atlanta Braves Holdings Inc
+1,2022-11-23T21:15:00+00:00,Liberty Media Corporation Series A Liberty Formula One Common Stock
+1,2022-11-23T21:15:00+00:00,Liberty Media Corporation Series A Liberty SiriusXM Common Stock
+1,2022-11-23T21:15:00+00:00,Liberty Media Corporation Series B Liberty SiriusXM Common Stock
+1,2022-11-23T21:15:00+00:00,Liberty Media Corporation Series C Liberty Formula One Common Stock
+1,2022-11-23T21:15:00+00:00,Liberty Media Corporation Series C Liberty SiriusXM Common Stock
+0,2022-11-23T21:15:00+00:00,Uniti Group Inc
+0,2022-11-23T21:41:47+00:00,DexCom Inc
+0,2022-11-23T21:41:47+00:00,Medpace Holdings Inc
+0,2022-11-23T21:41:47+00:00,Neurocrine Biosciences Inc
+1,2022-11-23T22:00:00+00:00,Richardson Electronics Ltd
+0,2022-11-23T22:02:10+00:00,ACM Research Inc
+0,2022-11-23T22:02:10+00:00,Mitek Systems Inc
+-1,2022-11-23T22:06:00+00:00,Bioventus Inc
+0,2022-11-23T22:14:47+00:00,DexCom Inc
+0,2022-11-23T22:14:47+00:00,Medpace Holdings Inc
+0,2022-11-23T22:14:47+00:00,Neurocrine Biosciences Inc
+-1,2022-11-23T22:16:03+00:00,Roper Technologies Inc
+-1,2022-11-23T22:18:00+00:00,Twist Bioscience Corporation Common Stock
+0,2022-11-23T22:35:00+00:00,Opendoor Technologies Inc Common Stock
+1,2022-11-23T22:45:10+00:00,Adobe Inc
+1,2022-11-23T22:45:10+00:00,Marvell Technology Inc
+0,2022-11-23T22:45:10+00:00,Micron Technology Inc
+-1,2022-11-23T22:45:10+00:00,Ulta Beauty Inc
+-1,2022-11-23T22:45:10+00:00,Walgreens Boots Alliance Inc
+1,2022-11-23T22:50:10+00:00,Progress Software Corporation Common Stock (DE)
+0,2022-11-23T22:54:00+00:00,Veru Inc
+-1,2022-11-23T22:56:04+00:00,Activision Blizzard Inc
+0,2022-11-23T23:07:00+00:00,Phathom Pharmaceuticals Inc
+0,2022-11-23T23:15:11+00:00,Paychex Inc
+0,2022-11-23T23:47:47+00:00,Moderna Inc
+0,2022-11-23T23:47:47+00:00,Vertex Pharmaceuticals Incorporated Common Stock
+-1,2022-11-24T00:02:00+00:00,Activision Blizzard Inc

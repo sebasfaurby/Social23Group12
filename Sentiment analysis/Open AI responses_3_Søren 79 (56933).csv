@@ -1,0 +1,80 @@
+LLM_score,date,company
+0,2023-04-19T12:00:00+00:00,Dare Bioscience Inc
+0,2023-04-19T12:00:00+00:00,Energy Recovery Inc
+0,2023-04-19T12:00:00+00:00,Enphase Energy Inc
+1,2023-04-19T12:00:00+00:00,Franchise Group Inc
+0,2023-04-19T12:00:00+00:00,Infinera Corporation Common Stock
+0,2023-04-19T12:00:00+00:00,Inseego Corp
+1,2023-04-19T12:00:00+00:00,Keros Therapeutics Inc
+0,2023-04-19T12:00:00+00:00,Pacira BioSciences Inc
+1,2023-04-19T12:00:00+00:00,PepsiCo Inc
+0,2023-04-19T12:00:00+00:00,Praxis Precision Medicines Inc
+0,2023-04-19T12:00:00+00:00,Qorvo Inc
+-1,2023-04-19T12:00:00+00:00,Redfin Corporation Common Stock
+0,2023-04-19T12:00:00+00:00,Ryvyl Inc
+0,2023-04-19T12:00:00+00:00,Take-Two Interactive Software Inc
+0,2023-04-19T12:00:00+00:00,The Chefs' Warehouse Inc
+0,2023-04-19T12:00:00+00:00,The Oncology Institute Inc
+0,2023-04-19T12:00:00+00:00,Zillow Group Inc
+0,2023-04-19T12:00:00+00:00,Zillow Group Inc
+1,2023-04-19T12:00:26+00:00,Intuitive Surgical Inc
+1,2023-04-19T12:01:22+00:00,Insulet Corporation Common Stock
+0,2023-04-19T12:02:12+00:00,Cadence Design Systems Inc
+0,2023-04-19T12:05:48+00:00,PowerFleet Inc
+0,2023-04-19T12:06:12+00:00,Microsoft Corporation Common Stock
+0,2023-04-19T12:06:12+00:00,Royal Gold Inc
+0,2023-04-19T12:07:00+00:00,Leslie's Inc
+-1,2023-04-19T12:07:19+00:00,Blueprint Medicines Corporation Common Stock
+0,2023-04-19T12:07:31+00:00,Alphabet Inc
+0,2023-04-19T12:07:31+00:00,Alphabet Inc
+0,2023-04-19T12:07:31+00:00,Apple Inc
+0,2023-04-19T12:07:31+00:00,Clearfield Inc
+0,2023-04-19T12:07:31+00:00,Conduent Incorporated Common Stock 
+0,2023-04-19T12:07:31+00:00,GoPro Inc
+0,2023-04-19T12:07:31+00:00,Microsoft Corporation Common Stock
+0,2023-04-19T12:07:31+00:00,Photronics Inc
+-1,2023-04-19T12:08:50+00:00,Trupanion Inc
+0,2023-04-19T12:12:00+00:00,Xometry Inc
+1,2023-04-19T12:15:00+00:00,Community Trust Bancorp Inc
+0,2023-04-19T12:15:00+00:00,Netflix Inc
+0,2023-04-19T12:15:00+00:00,Warner Bros
+1,2023-04-19T12:15:12+00:00,Baker Hughes Company Class A Common Stock
+1,2023-04-19T12:16:00+00:00,Netflix Inc
+0,2023-04-19T12:18:19+00:00,Netflix Inc
+1,2023-04-19T12:19:12+00:00,Moderna Inc
+0,2023-04-19T12:26:00+00:00,Luminar Technologies Inc
+-1,2023-04-19T12:26:02+00:00,Meta Platforms Inc
+-1,2023-04-19T12:28:42+00:00,Intel Corporation Common Stock
+-1,2023-04-19T12:28:42+00:00,NVIDIA Corporation Common Stock
+0,2023-04-19T12:30:00+00:00,Anika Therapeutics Inc
+1,2023-04-19T12:30:00+00:00,Biomea Fusion Inc
+0,2023-04-19T12:30:00+00:00,Compass Therapeutics Inc
+1,2023-04-19T12:30:00+00:00,INmune Bio Inc
+1,2023-04-19T12:30:00+00:00,International Money Express Inc
+0,2023-04-19T12:30:00+00:00,Mammoth Energy Services Inc
+0,2023-04-19T12:30:00+00:00,Microsoft Corporation Common Stock
+1,2023-04-19T12:30:00+00:00,Nauticus Robotics Inc
+0,2023-04-19T12:30:00+00:00,NetScout Systems Inc
+0,2023-04-19T12:30:00+00:00,PepsiCo Inc
+0,2023-04-19T12:30:00+00:00,Schrodinger Inc
+0,2023-04-19T12:30:00+00:00,The Vita Coco Company Inc
+1,2023-04-19T12:30:00+00:00,Transphorm Inc
+1,2023-04-19T12:30:00+00:00,Veru Inc
+1,2023-04-19T12:30:00+00:00,VistaGen Therapeutics Inc
+1,2023-04-19T12:30:00+00:00,WW International Inc
+0,2023-04-19T12:30:12+00:00,Ligand Pharmaceuticals Incorporated Common Stock
+1,2023-04-19T12:31:00+00:00,Ryvyl Inc
+0,2023-04-19T12:31:12+00:00,Harrow Health Inc
+0,2023-04-19T12:31:12+00:00,Lantheus Holdings Inc
+1,2023-04-19T12:31:30+00:00,Baker Hughes Company Class A Common Stock
+-1,2023-04-19T12:31:57+00:00,Tractor Supply Company Common Stock
+0,2023-04-19T12:32:01+00:00,Netflix Inc
+1,2023-04-19T12:36:12+00:00,Virtu Financial Inc
+0,2023-04-19T12:38:12+00:00,Accelerate Diagnostics Inc
+0,2023-04-19T12:38:12+00:00,Casey's General Stores Inc
+0,2023-04-19T12:38:12+00:00,Nektar Therapeutics  Common Stock
+0,2023-04-19T12:39:12+00:00,CDW Corporation Common Stock
+1,2023-04-19T12:41:06+00:00,Alphabet Inc
+1,2023-04-19T12:41:06+00:00,Alphabet Inc
+0,2023-04-19T12:41:06+00:00,Apple Inc
+1,2023-04-19T12:42:00+00:00,Esperion Therapeutics Inc

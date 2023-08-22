@@ -1,0 +1,88 @@
+LLM_score,date,company
+0,2023-02-17T10:07:03+00:00,Celcuity Inc
+1,2023-02-17T10:09:56+00:00,Hasbro Inc
+-1,2023-02-17T10:11:50+00:00,Upstart Holdings Inc
+-1,2023-02-17T10:14:10+00:00,Meta Platforms Inc
+1,2023-02-17T10:14:26+00:00,Healthcare Services Group Inc
+0,2023-02-17T10:19:30+00:00,BigCommerce Holdings Inc
+0,2023-02-17T10:21:00+00:00,Palo Alto Networks Inc
+0,2023-02-17T10:22:03+00:00,H&E Equipment Services Inc
+1,2023-02-17T10:22:37+00:00,Industrial Logistics Properties Trust Common Shares of Beneficial Interest
+0,2023-02-17T10:23:52+00:00,Littelfuse Inc
+0,2023-02-17T10:24:42+00:00,Pegasystems Inc
+0,2023-02-17T10:27:03+00:00,Liquidity Services Inc
+0,2023-02-17T10:27:41+00:00,Clearfield Inc
+-1,2023-02-17T10:28:16+00:00,Astec Industries Inc
+-1,2023-02-17T10:28:32+00:00,Meta Platforms Inc
+0,2023-02-17T10:30:00+00:00,Airbnb Inc
+0,2023-02-17T10:30:00+00:00,PepsiCo Inc
+0,2023-02-17T10:30:00+00:00,Tractor Supply Company Common Stock
+0,2023-02-17T10:31:00+00:00,DraftKings Inc
+0,2023-02-17T10:31:00+00:00,Moderna Inc
+0,2023-02-17T10:31:00+00:00,Redfin Corporation Common Stock
+-1,2023-02-17T10:31:20+00:00,Palo Alto Networks Inc
+0,2023-02-17T10:33:00+00:00,National Instruments Corporation Common Stock
+0,2023-02-17T10:35:22+00:00,Nkarta Inc
+-1,2023-02-17T10:40:07+00:00,FARO Technologies Inc
+1,2023-02-17T10:40:57+00:00,Seagen Inc
+1,2023-02-17T10:42:31+00:00,SS&C Technologies Holdings Inc
+0,2023-02-17T10:43:01+00:00,DraftKings Inc
+0,2023-02-17T10:43:01+00:00,Moderna Inc
+0,2023-02-17T10:47:45+00:00,Alaunos Therapeutics Inc
+-1,2023-02-17T10:50:04+00:00,Paylocity Holding Corporation Common Stock
+0,2023-02-17T10:51:15+00:00,CarParts
+0,2023-02-17T10:58:15+00:00,Atrion Corporation Common Stock
+1,2023-02-17T11:00:00+00:00,The Trade Desk Inc
+0,2023-02-17T11:00:07+00:00,WD-40 Company Common Stock
+0,2023-02-17T11:00:58+00:00,Intuitive Surgical Inc
+1,2023-02-17T11:01:07+00:00,Costco Wholesale Corporation Common Stock
+0,2023-02-17T11:01:46+00:00,Alector Inc
+-1,2023-02-17T11:02:00+00:00,Applied Materials Inc
+0,2023-02-17T11:02:00+00:00,DraftKings Inc
+-1,2023-02-17T11:02:00+00:00,Moderna Inc
+1,2023-02-17T11:03:35+00:00,Workhorse Group Inc
+1,2023-02-17T11:07:11+00:00,Expedia Group Inc
+-1,2023-02-17T11:08:52+00:00,Kelly Services Inc
+-1,2023-02-17T11:09:11+00:00,Digital Turbine Inc
+0,2023-02-17T11:10:00+00:00,SoFi Technologies Inc
+1,2023-02-17T11:12:27+00:00,FTAI Aviation Ltd
+0,2023-02-17T11:15:00+00:00,Honeywell International Inc
+0,2023-02-17T11:17:00+00:00,Airbnb Inc
+-1,2023-02-17T11:24:25+00:00,Moderna Inc
+0,2023-02-17T11:26:36+00:00,Magnite Inc
+1,2023-02-17T11:30:07+00:00,Vicor Corporation Common Stock
+0,2023-02-17T11:30:21+00:00,Ardelyx Inc
+0,2023-02-17T11:30:21+00:00,DURECT Corporation Common Stock
+0,2023-02-17T11:32:00+00:00,DraftKings Inc
+1,2023-02-17T11:35:20+00:00,Relmada Therapeutics Inc
+1,2023-02-17T11:37:11+00:00,Commercial Vehicle Group Inc
+0,2023-02-17T11:44:11+00:00,Inari Medical Inc
+0,2023-02-17T11:45:00+00:00,Etsy Inc
+-1,2023-02-17T11:45:00+00:00,Moderna Inc
+0,2023-02-17T11:45:00+00:00,eBay Inc
+0,2023-02-17T11:45:19+00:00,Netflix Inc
+0,2023-02-17T11:45:19+00:00,Roku Inc
+-1,2023-02-17T11:49:33+00:00,Fathom Holdings Inc
+-1,2023-02-17T11:50:00+00:00,Affirm Holdings Inc
+-1,2023-02-17T11:55:00+00:00,eBay Inc
+1,2023-02-17T11:56:11+00:00,Steel Dynamics Inc
+0,2023-02-17T12:00:00+00:00,Bruker Corporation Common Stock
+0,2023-02-17T12:00:00+00:00,Destination XL Group Inc
+0,2023-02-17T12:00:00+00:00,FibroGen Inc Common Stock
+0,2023-02-17T12:00:00+00:00,Molekule Group Inc
+0,2023-02-17T12:00:00+00:00,Paramount Global Class A Common Stock
+0,2023-02-17T12:00:00+00:00,Paramount Global Class B Common Stock
+0,2023-02-17T12:00:00+00:00,Peloton Interactive Inc
+0,2023-02-17T12:00:05+00:00,Honeywell International Inc
+0,2023-02-17T12:00:45+00:00,Zoom Video Communications Inc
+0,2023-02-17T12:01:38+00:00,Starbucks Corporation Common Stock
+0,2023-02-17T12:05:00+00:00,REGENXBIO Inc
+1,2023-02-17T12:05:22+00:00,AMC Networks Inc
+1,2023-02-17T12:05:22+00:00,Netflix Inc
+0,2023-02-17T12:08:13+00:00,DENTSPLY SIRONA Inc
+1,2023-02-17T12:09:12+00:00,Hologic Inc
+1,2023-02-17T12:09:12+00:00,ShockWave Medical Inc
+1,2023-02-17T12:10:42+00:00,Marathon Digital Holdings Inc
+0,2023-02-17T12:11:00+00:00,Rivian Automotive Inc
+1,2023-02-17T12:12:12+00:00,HBT Financial Inc
+0,2023-02-17T12:15:34+00:00,Autodesk Inc

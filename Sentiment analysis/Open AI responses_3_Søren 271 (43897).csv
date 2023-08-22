@@ -1,0 +1,272 @@
+LLM_score,date,company
+1,2023-03-22T13:00:00+00:00,Progress Software Corporation Common Stock (DE)
+1,2023-03-22T13:00:00+00:00,Progyny Inc
+1,2023-03-22T13:00:00+00:00,Qurate Retail Inc
+1,2023-03-22T13:00:00+00:00,Rimini Street Inc
+1,2023-03-22T13:00:00+00:00,Tenable Holdings Inc
+0,2023-03-22T13:00:01+00:00,Adobe Inc
+0,2023-03-22T13:00:01+00:00,Airbnb Inc
+0,2023-03-22T13:00:01+00:00,Applied Materials Inc
+0,2023-03-22T13:00:01+00:00,Cisco Systems Inc
+0,2023-03-22T13:00:01+00:00,PayPal Holdings Inc
+0,2023-03-22T13:00:01+00:00,Roper Technologies Inc
+0,2023-03-22T13:00:54+00:00,Starbucks Corporation Common Stock
+1,2023-03-22T13:01:00+00:00,Marinus Pharmaceuticals Inc
+0,2023-03-22T13:04:01+00:00,T
+1,2023-03-22T13:05:00+00:00,Super Micro Computer Inc
+0,2023-03-22T13:06:01+00:00,New York Mortgage Trust Inc
+0,2023-03-22T13:06:01+00:00,New York Mortgage Trust Inc
+0,2023-03-22T13:09:48+00:00,Super Micro Computer Inc
+0,2023-03-22T13:11:31+00:00,Synaptics Incorporated Common Stock $0
+0,2023-03-22T13:12:30+00:00,Ollie's Bargain Outlet Holdings Inc
+1,2023-03-22T13:13:20+00:00,ScanSource Inc
+-1,2023-03-22T13:14:27+00:00,89bio Inc
+-1,2023-03-22T13:14:27+00:00,Akero Therapeutics Inc
+0,2023-03-22T13:15:00+00:00,Principal Financial Group Inc Common Stock
+1,2023-03-22T13:15:01+00:00,Cavco Industries Inc
+0,2023-03-22T13:15:01+00:00,Insight Enterprises Inc
+1,2023-03-22T13:15:43+00:00,Freshpet Inc
+1,2023-03-22T13:15:43+00:00,Petco Health and Wellness Company Inc
+1,2023-03-22T13:20:00+00:00,MicroVision Inc
+-1,2023-03-22T13:20:00+00:00,Starbucks Corporation Common Stock
+-1,2023-03-22T13:24:00+00:00,PacWest Bancorp Common Stock
+0,2023-03-22T13:24:10+00:00,PacWest Bancorp Common Stock
+0,2023-03-22T13:24:10+00:00,Petco Health and Wellness Company Inc
+-1,2023-03-22T13:25:00+00:00,SCYNEXIS Inc
+0,2023-03-22T13:28:36+00:00,MasterCraft Boat Holdings Inc
+0,2023-03-22T13:30:00+00:00,Gilead Sciences Inc
+0,2023-03-22T13:30:29+00:00,Cheesecake Factory Incorporated (The) Common Stock
+-1,2023-03-22T13:33:00+00:00,Advanced Micro Devices Inc
+-1,2023-03-22T13:33:00+00:00,Meta Platforms Inc
+-1,2023-03-22T13:33:00+00:00,Palo Alto Networks Inc
+-1,2023-03-22T13:35:01+00:00,Central Valley Community Bancorp Common Stock
+-1,2023-03-22T13:35:01+00:00,Nektar Therapeutics  Common Stock
+0,2023-03-22T13:38:00+00:00,Cincinnati Financial Corporation Common Stock
+0,2023-03-22T13:40:01+00:00,Airbnb Inc
+0,2023-03-22T13:40:01+00:00,Fastenal Company Common Stock
+0,2023-03-22T13:40:01+00:00,Inter Parfums Inc
+0,2023-03-22T13:40:01+00:00,Northwest Pipe Company Common Stock
+0,2023-03-22T13:40:01+00:00,Olympic Steel Inc
+0,2023-03-22T13:40:01+00:00,Palo Alto Networks Inc
+0,2023-03-22T13:40:01+00:00,Ross Stores Inc
+0,2023-03-22T13:45:00+00:00,Intel Corporation Common Stock
+0,2023-03-22T13:45:00+00:00,Meta Platforms Inc
+0,2023-03-22T13:45:00+00:00,PayPal Holdings Inc
+0,2023-03-22T13:47:01+00:00,PacWest Bancorp Common Stock
+0,2023-03-22T13:49:02+00:00,Meta Platforms Inc
+-1,2023-03-22T13:53:07+00:00,Broadcom Inc
+-1,2023-03-22T13:54:08+00:00,Luminar Technologies Inc
+1,2023-03-22T13:55:01+00:00,Catalyst Pharmaceuticals Inc
+1,2023-03-22T13:55:01+00:00,Legacy Housing Corporation Common Stock (TX)
+0,2023-03-22T14:00:00+00:00,Advanced Micro Devices Inc
+0,2023-03-22T14:00:00+00:00,Flushing Financial Corporation Common Stock
+0,2023-03-22T14:00:00+00:00,Information Services Group Inc
+0,2023-03-22T14:00:00+00:00,LKQ Corporation Common Stock
+0,2023-03-22T14:00:00+00:00,LiveOne Inc
+1,2023-03-22T14:00:00+00:00,Selective Insurance Group Inc
+0,2023-03-22T14:00:02+00:00,Palo Alto Networks Inc
+1,2023-03-22T14:00:02+00:00,Paychex Inc
+1,2023-03-22T14:00:02+00:00,Semtech Corporation Common Stock
+0,2023-03-22T14:00:21+00:00,Adobe Inc
+1,2023-03-22T14:00:30+00:00,Amgen Inc
+1,2023-03-22T14:00:44+00:00,Costco Wholesale Corporation Common Stock
+1,2023-03-22T14:01:39+00:00,PacWest Bancorp Common Stock
+0,2023-03-22T14:02:23+00:00,Meta Platforms Inc
+0,2023-03-22T14:05:00+00:00,NVIDIA Corporation Common Stock
+0,2023-03-22T14:05:02+00:00,NVIDIA Corporation Common Stock
+0,2023-03-22T14:05:26+00:00,NAPCO Security Technologies Inc
+1,2023-03-22T14:07:00+00:00,Comcast Corporation Class A Common Stock
+1,2023-03-22T14:07:00+00:00,Gilead Sciences Inc
+1,2023-03-22T14:07:22+00:00,Brookline Bancorp Inc
+1,2023-03-22T14:08:07+00:00,NVIDIA Corporation Common Stock
+0,2023-03-22T14:09:00+00:00,Varonis Systems Inc
+-1,2023-03-22T14:09:07+00:00,Meta Platforms Inc
+1,2023-03-22T14:10:00+00:00,Park City Group Inc
+1,2023-03-22T14:13:00+00:00,Rackspace Technology Inc
+-1,2023-03-22T14:15:00+00:00,Amgen Inc
+0,2023-03-22T14:15:00+00:00,QUALCOMM Incorporated Common Stock
+-1,2023-03-22T14:20:41+00:00,Intel Corporation Common Stock
+-1,2023-03-22T14:20:41+00:00,Marvell Technology Inc
+-1,2023-03-22T14:20:41+00:00,Meta Platforms Inc
+-1,2023-03-22T14:20:41+00:00,Micron Technology Inc
+0,2023-03-22T14:22:02+00:00,Arcadia Biosciences Inc
+1,2023-03-22T14:29:03+00:00,NVIDIA Corporation Common Stock
+1,2023-03-22T14:29:27+00:00,89bio Inc
+1,2023-03-22T14:29:27+00:00,Akero Therapeutics Inc
+0,2023-03-22T14:30:00+00:00,American National Bankshares Inc
+0,2023-03-22T14:30:00+00:00,Cintas Corporation Common Stock
+-1,2023-03-22T14:30:00+00:00,Fate Therapeutics Inc
+0,2023-03-22T14:30:00+00:00,Meta Platforms Inc
+1,2023-03-22T14:37:00+00:00,Adobe Inc
+1,2023-03-22T14:37:00+00:00,Intel Corporation Common Stock
+1,2023-03-22T14:37:00+00:00,NVIDIA Corporation Common Stock
+-1,2023-03-22T14:37:00+00:00,Rivian Automotive Inc
+1,2023-03-22T14:38:02+00:00,HealthEquity Inc
+1,2023-03-22T14:38:02+00:00,Hologic Inc
+-1,2023-03-22T14:40:00+00:00,Petco Health and Wellness Company Inc
+1,2023-03-22T14:40:00+00:00,T-Mobile US Inc
+-1,2023-03-22T14:43:03+00:00,Hooker Furnishings Corporation Common Stock
+1,2023-03-22T14:44:56+00:00,Ollie's Bargain Outlet Holdings Inc
+0,2023-03-22T14:45:00+00:00,Datadog Inc
+1,2023-03-22T14:47:51+00:00,Ollie's Bargain Outlet Holdings Inc
+1,2023-03-22T14:48:53+00:00,PacWest Bancorp Common Stock
+0,2023-03-22T14:49:27+00:00,Moderna Inc
+-1,2023-03-22T14:50:14+00:00,PacWest Bancorp Common Stock
+-1,2023-03-22T14:50:14+00:00,PacWest Bancorp Common Stock
+-1,2023-03-22T14:52:53+00:00,Moderna Inc
+-1,2023-03-22T14:53:39+00:00,PacWest Bancorp Common Stock
+0,2023-03-22T14:55:58+00:00,SoFi Technologies Inc
+0,2023-03-22T14:57:00+00:00,Exelon Corporation Common Stock
+1,2023-03-22T14:57:02+00:00,Global Water Resources Inc
+0,2023-03-22T15:00:00+00:00,Richardson Electronics Ltd
+0,2023-03-22T15:00:00+00:00,Werner Enterprises Inc
+-1,2023-03-22T15:02:00+00:00,Starbucks Corporation Common Stock
+-1,2023-03-22T15:05:43+00:00,Shoe Carnival Inc
+1,2023-03-22T15:06:06+00:00,Petco Health and Wellness Company Inc
+0,2023-03-22T15:07:00+00:00,Advanced Micro Devices Inc
+0,2023-03-22T15:07:00+00:00,First Solar Inc
+-1,2023-03-22T15:10:06+00:00,PacWest Bancorp Common Stock
+0,2023-03-22T15:12:00+00:00,Avid Technology Inc
+1,2023-03-22T15:13:03+00:00,Henry Schein Inc
+1,2023-03-22T15:13:03+00:00,Hologic Inc
+0,2023-03-22T15:14:00+00:00,Amgen Inc
+-1,2023-03-22T15:15:05+00:00,Papa John's International Inc
+0,2023-03-22T15:17:03+00:00,Analog Devices Inc
+1,2023-03-22T15:19:40+00:00,Medicinova Inc Common Stock
+0,2023-03-22T15:21:03+00:00,CSX Corporation Common Stock
+0,2023-03-22T15:21:03+00:00,United Airlines Holdings Inc
+0,2023-03-22T15:26:12+00:00,Moderna Inc
+-1,2023-03-22T15:29:06+00:00,Netflix Inc
+-1,2023-03-22T15:29:13+00:00,Revolution Medicines Inc
+-1,2023-03-22T15:30:03+00:00,AMERISAFE Inc
+1,2023-03-22T15:30:03+00:00,Copart Inc
+-1,2023-03-22T15:30:03+00:00,Nordson Corporation Common Stock
+0,2023-03-22T15:31:38+00:00,Starbucks Corporation Common Stock
+0,2023-03-22T15:40:03+00:00,Addus HomeCare Corporation Common Stock
+0,2023-03-22T15:40:03+00:00,East West Bancorp Inc
+1,2023-03-22T15:41:01+00:00,Brighthouse Financial Inc
+1,2023-03-22T15:41:01+00:00,Brighthouse Financial Inc
+-1,2023-03-22T15:42:37+00:00,Coinbase Global Inc
+-1,2023-03-22T15:42:37+00:00,Intuitive Surgical Inc
+-1,2023-03-22T15:42:37+00:00,Kratos Defense & Security Solutions Inc
+-1,2023-03-22T15:42:37+00:00,Meta Platforms Inc
+-1,2023-03-22T15:42:37+00:00,Peloton Interactive Inc
+-1,2023-03-22T15:42:37+00:00,Roku Inc
+0,2023-03-22T15:45:00+00:00,Lantern Pharma Inc
+0,2023-03-22T15:48:25+00:00,Array Technologies Inc
+0,2023-03-22T15:50:25+00:00,Lantern Pharma Inc
+0,2023-03-22T15:52:00+00:00,PepsiCo Inc
+1,2023-03-22T15:52:49+00:00,National Vision Holdings Inc
+1,2023-03-22T15:53:07+00:00,NVIDIA Corporation Common Stock
+1,2023-03-22T15:55:33+00:00,Moderna Inc
+1,2023-03-22T15:56:18+00:00,NVIDIA Corporation Common Stock
+0,2023-03-22T15:58:03+00:00,Hologic Inc
+1,2023-03-22T15:58:03+00:00,Masimo Corporation Common Stock
+1,2023-03-22T16:00:00+00:00,Focus Universal Inc
+0,2023-03-22T16:00:00+00:00,Gibraltar Industries Inc
+1,2023-03-22T16:00:00+00:00,Gilead Sciences Inc
+1,2023-03-22T16:00:04+00:00,Construction Partners Inc
+1,2023-03-22T16:00:04+00:00,Frontdoor Inc
+1,2023-03-22T16:00:04+00:00,Microchip Technology Incorporated Common Stock
+0,2023-03-22T16:05:00+00:00,Alico Inc
+1,2023-03-22T16:06:00+00:00,Academy Sports and Outdoors Inc
+-1,2023-03-22T16:07:01+00:00,Petco Health and Wellness Company Inc
+1,2023-03-22T16:08:00+00:00,Starbucks Corporation Common Stock
+-1,2023-03-22T16:09:25+00:00,Luminar Technologies Inc
+0,2023-03-22T16:10:04+00:00,Semtech Corporation Common Stock
+-1,2023-03-22T16:11:57+00:00,Meta Platforms Inc
+1,2023-03-22T16:13:28+00:00,NVIDIA Corporation Common Stock
+-1,2023-03-22T16:14:10+00:00,Canoo Inc
+-1,2023-03-22T16:14:10+00:00,Nikola Corporation Common Stock
+0,2023-03-22T16:15:00+00:00,Meta Platforms Inc
+0,2023-03-22T16:15:00+00:00,News Corporation Class A Common Stock
+0,2023-03-22T16:15:00+00:00,News Corporation Class B Common Stock
+0,2023-03-22T16:17:38+00:00,Meta Platforms Inc
+1,2023-03-22T16:20:04+00:00,ICF International Inc
+1,2023-03-22T16:24:28+00:00,Karuna Therapeutics Inc
+-1,2023-03-22T16:37:03+00:00,PacWest Bancorp Common Stock
+1,2023-03-22T16:42:04+00:00,Inter Parfums Inc
+-1,2023-03-22T16:45:45+00:00,American Airlines Group Inc
+-1,2023-03-22T16:46:00+00:00,National Vision Holdings Inc
+1,2023-03-22T16:49:37+00:00,MarketAxess Holdings Inc
+1,2023-03-22T16:50:00+00:00,Blink Charging Co
+-1,2023-03-22T16:53:00+00:00,Meta Platforms Inc
+0,2023-03-22T16:53:04+00:00,Henry Schein Inc
+0,2023-03-22T16:53:04+00:00,Hologic Inc
+0,2023-03-22T16:53:04+00:00,Neogen Corporation Common Stock
+0,2023-03-22T17:02:00+00:00,Caribou Biosciences Inc
+-1,2023-03-22T17:05:00+00:00,Moderna Inc
+0,2023-03-22T17:05:46+00:00,Fox Corporation Class A Common Stock
+0,2023-03-22T17:05:46+00:00,Fox Corporation Class B Common Stock
+-1,2023-03-22T17:06:05+00:00,Chuy's Holdings Inc
+-1,2023-03-22T17:06:05+00:00,Papa John's International Inc
+0,2023-03-22T17:07:05+00:00,Henry Schein Inc
+0,2023-03-22T17:07:05+00:00,Hologic Inc
+-1,2023-03-22T17:08:42+00:00,Meta Platforms Inc
+0,2023-03-22T17:09:03+00:00,Fox Corporation Class A Common Stock
+0,2023-03-22T17:09:03+00:00,Fox Corporation Class B Common Stock
+0,2023-03-22T17:09:05+00:00,T-Mobile US Inc
+1,2023-03-22T17:12:05+00:00,Cincinnati Financial Corporation Common Stock
+1,2023-03-22T17:13:05+00:00,BioMarin Pharmaceutical Inc
+1,2023-03-22T17:13:05+00:00,BridgeBio Pharma Inc
+1,2023-03-22T17:14:00+00:00,Incyte Corp
+-1,2023-03-22T17:15:00+00:00,American Airlines Group Inc
+0,2023-03-22T17:15:00+00:00,TechTarget Inc
+0,2023-03-22T17:20:18+00:00,PacWest Bancorp Common Stock
+1,2023-03-22T17:22:00+00:00,MacroGenics Inc
+-1,2023-03-22T17:25:00+00:00,Advanced Micro Devices Inc
+-1,2023-03-22T17:25:00+00:00,NVIDIA Corporation Common Stock
+1,2023-03-22T17:30:05+00:00,American Public Education Inc
+1,2023-03-22T17:33:00+00:00,NVIDIA Corporation Common Stock
+0,2023-03-22T17:33:05+00:00,QUALCOMM Incorporated Common Stock
+0,2023-03-22T17:34:29+00:00,Patrick Industries Inc
+1,2023-03-22T17:35:00+00:00,NVIDIA Corporation Common Stock
+0,2023-03-22T17:36:17+00:00,The Carlyle Group Inc
+0,2023-03-22T17:40:00+00:00,Advanced Micro Devices Inc
+0,2023-03-22T17:40:00+00:00,NVIDIA Corporation Common Stock
+0,2023-03-22T17:40:58+00:00,NVIDIA Corporation Common Stock
+-1,2023-03-22T17:41:38+00:00,Medpace Holdings Inc
+1,2023-03-22T17:46:48+00:00,Incyte Corp
+0,2023-03-22T17:48:41+00:00,New York Mortgage Trust Inc
+0,2023-03-22T17:48:41+00:00,New York Mortgage Trust Inc
+0,2023-03-22T17:52:00+00:00,Starbucks Corporation Common Stock
+-1,2023-03-22T17:56:00+00:00,PacWest Bancorp Common Stock
+1,2023-03-22T18:00:00+00:00,Costco Wholesale Corporation Common Stock
+1,2023-03-22T18:02:52+00:00,RGC Resources Inc
+1,2023-03-22T18:03:15+00:00,Petco Health and Wellness Company Inc
+-1,2023-03-22T18:04:00+00:00,Fifth Third Bancorp Common Stock
+-1,2023-03-22T18:04:00+00:00,Fifth Third Bancorp Depositary Shares
+-1,2023-03-22T18:04:00+00:00,Fifth Third Bancorp Depositary Shares each representing 1/40th share of Fifth Third 6
+0,2023-03-22T18:04:54+00:00,Petco Health and Wellness Company Inc
+0,2023-03-22T18:05:08+00:00,Malibu Boats Inc
+0,2023-03-22T18:06:09+00:00,Costco Wholesale Corporation Common Stock
+1,2023-03-22T18:10:54+00:00,NVIDIA Corporation Common Stock
+1,2023-03-22T18:12:01+00:00,Merit Medical Systems Inc
+0,2023-03-22T18:14:06+00:00,Advanced Micro Devices Inc
+0,2023-03-22T18:14:06+00:00,Broadcom Inc
+0,2023-03-22T18:14:06+00:00,NVIDIA Corporation Common Stock
+0,2023-03-22T18:14:06+00:00,QUALCOMM Incorporated Common Stock
+0,2023-03-22T18:14:06+00:00,Texas Instruments Incorporated Common Stock
+1,2023-03-22T18:15:06+00:00,Regeneron Pharmaceuticals Inc
+0,2023-03-22T18:16:38+00:00,Costco Wholesale Corporation Common Stock
+0,2023-03-22T18:22:51+00:00,Aehr Test Systems Common Stock
+0,2023-03-22T18:22:51+00:00,Crocs Inc
+0,2023-03-22T18:22:51+00:00,Krispy Kreme Inc
+0,2023-03-22T18:22:51+00:00,Netflix Inc
+0,2023-03-22T18:22:51+00:00,Ollie's Bargain Outlet Holdings Inc
+0,2023-03-22T18:22:59+00:00,Adobe Inc
+1,2023-03-22T18:26:00+00:00,Washington Trust Bancorp Inc
+0,2023-03-22T18:27:46+00:00,PacWest Bancorp Common Stock
+-1,2023-03-22T18:27:56+00:00,Moderna Inc
+-1,2023-03-22T18:29:00+00:00,Leslie's Inc
+-1,2023-03-22T18:29:00+00:00,PacWest Bancorp Common Stock
+0,2023-03-22T18:31:22+00:00,Fox Corporation Class A Common Stock
+0,2023-03-22T18:31:22+00:00,Fox Corporation Class B Common Stock
+1,2023-03-22T18:34:06+00:00,Comcast Corporation Class A Common Stock
+1,2023-03-22T18:35:06+00:00,Ollie's Bargain Outlet Holdings Inc
+0,2023-03-22T18:38:06+00:00,Gilead Sciences Inc
+-1,2023-03-22T18:43:18+00:00,PacWest Bancorp Common Stock
+0,2023-03-22T18:44:00+00:00,American Software Inc
+0,2023-03-22T18:51:24+00:00,Meta Platforms Inc
+1,2023-03-22T18:53:39+00:00,Ironwood Pharmaceuticals Inc
+0,2023-03-22T18:55:55+00:00,Casey's General Stores Inc

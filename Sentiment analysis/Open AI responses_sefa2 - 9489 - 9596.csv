@@ -1,0 +1,108 @@
+LLM_score,date,company
+0,2022-11-21T12:00:00+00:00,TELA Bio Inc
+0,2022-11-21T12:01:00+00:00,KORU Medical Systems Inc
+0,2022-11-21T12:01:46+00:00,PayPal Holdings Inc
+0,2022-11-21T12:02:02+00:00,Texas Instruments Incorporated Common Stock
+0,2022-11-21T12:05:00+00:00,Applied Materials Inc
+1,2022-11-21T12:05:00+00:00,Charge Enterprises Inc
+1,2022-11-21T12:10:12+00:00,Barrett Business Services Inc
+1,2022-11-21T12:10:12+00:00,MainStreet Bancshares Inc
+1,2022-11-21T12:10:12+00:00,Old Second Bancorp Inc
+0,2022-11-21T12:11:12+00:00,Avis Budget Group Inc
+0,2022-11-21T12:22:12+00:00,First Merchants Corporation Common Stock
+0,2022-11-21T12:22:12+00:00,NBT Bancorp Inc
+1,2022-11-21T12:29:12+00:00,Commerce Bancshares Inc
+0,2022-11-21T12:29:12+00:00,Texas Roadhouse Inc
+0,2022-11-21T12:29:12+00:00,Washington Federal Inc
+0,2022-11-21T12:29:12+00:00,Wingstop Inc
+1,2022-11-21T12:30:00+00:00,Adaptive Biotechnologies Corporation Common Stock
+0,2022-11-21T12:30:00+00:00,Aehr Test Systems Common Stock
+0,2022-11-21T12:30:00+00:00,First Foundation Inc
+0,2022-11-21T12:30:00+00:00,Gritstone bio Inc
+0,2022-11-21T12:40:05+00:00,Strategic Education Inc
+-1,2022-11-21T12:41:00+00:00,Vintage Wine Estates Inc
+-1,2022-11-21T12:55:00+00:00,T-Mobile US Inc
+0,2022-11-21T12:58:00+00:00,Prospect Capital Corporation Common Stock
+1,2022-11-21T13:00:00+00:00,Alignment Healthcare Inc
+0,2022-11-21T13:00:00+00:00,Applied Digital Corporation Common Stock
+1,2022-11-21T13:00:00+00:00,Bionano Genomics Inc
+1,2022-11-21T13:00:00+00:00,Citius Pharmaceuticals Inc
+0,2022-11-21T13:00:00+00:00,LivePerson Inc
+1,2022-11-21T13:00:00+00:00,Marriott International Class A Common Stock
+0,2022-11-21T13:00:00+00:00,Masimo Corporation Common Stock
+0,2022-11-21T13:00:00+00:00,Ocuphire Pharma Inc
+1,2022-11-21T13:00:00+00:00,PDS Biotechnology Corporation Common Stock
+1,2022-11-21T13:00:00+00:00,Petco Health and Wellness Company Inc
+1,2022-11-21T13:00:00+00:00,Rhythm Pharmaceuticals Inc
+1,2022-11-21T13:00:00+00:00,Rocket Pharmaceuticals Inc
+1,2022-11-21T13:00:00+00:00,Verra Mobility Corporation Class A Common Stock
+1,2022-11-21T13:00:00+00:00,Zebra Technologies Corporation Class A Common Stock
+-1,2022-11-21T13:00:00+00:00,Zillow Group Inc
+-1,2022-11-21T13:00:00+00:00,Zillow Group Inc
+1,2022-11-21T13:00:00+00:00,iCAD Inc
+-1,2022-11-21T13:00:08+00:00,Beyond Meat Inc
+0,2022-11-21T13:00:23+00:00,Walgreens Boots Alliance Inc
+0,2022-11-21T13:00:57+00:00,Automatic Data Processing Inc
+0,2022-11-21T13:01:00+00:00,Equinix Inc
+0,2022-11-21T13:05:00+00:00,BioLife Solutions Inc
+1,2022-11-21T13:11:00+00:00,Cheesecake Factory Incorporated (The) Common Stock
+0,2022-11-21T13:13:21+00:00,Fox Corporation Class A Common Stock
+0,2022-11-21T13:13:21+00:00,Fox Corporation Class B Common Stock
+0,2022-11-21T13:13:21+00:00,News Corporation Class A Common Stock
+0,2022-11-21T13:13:21+00:00,News Corporation Class B Common Stock
+1,2022-11-21T13:14:23+00:00,Donegal Group Inc
+1,2022-11-21T13:15:00+00:00,Baker Hughes Company Class A Common Stock
+0,2022-11-21T13:15:00+00:00,ShockWave Medical Inc
+0,2022-11-21T13:15:00+00:00,Splunk Inc
+0,2022-11-21T13:16:01+00:00,Coinbase Global Inc
+0,2022-11-21T13:16:01+00:00,Wynn Resorts Limited Common stock
+0,2022-11-21T13:17:28+00:00,Fox Corporation Class A Common Stock
+0,2022-11-21T13:17:28+00:00,Fox Corporation Class B Common Stock
+0,2022-11-21T13:17:28+00:00,News Corporation Class A Common Stock
+0,2022-11-21T13:17:28+00:00,News Corporation Class B Common Stock
+0,2022-11-21T13:19:00+00:00,Sabre Corporation 6
+0,2022-11-21T13:19:00+00:00,Sabre Corporation Common Stock
+0,2022-11-21T13:22:01+00:00,Shore Bancshares Inc Common Stock
+1,2022-11-21T13:26:01+00:00,Palo Alto Networks Inc
+0,2022-11-21T13:28:27+00:00,Acadia Healthcare Company Inc
+0,2022-11-21T13:29:01+00:00,Super Micro Computer Inc
+0,2022-11-21T13:30:00+00:00,Airbnb Inc
+0,2022-11-21T13:30:00+00:00,CRA International Inc
+0,2022-11-21T13:30:00+00:00,Computer Task Group Inc
+1,2022-11-21T13:30:00+00:00,Legend Biotech Corporation American Depositary Shares
+1,2022-11-21T13:30:00+00:00,NewtekOne Inc
+1,2022-11-21T13:30:00+00:00,NewtekOne Inc
+-1,2022-11-21T13:30:00+00:00,OptiNose Inc
+0,2022-11-21T13:30:00+00:00,Schrodinger Inc
+1,2022-11-21T13:30:00+00:00,Streamline Health Solutions Inc
+0,2022-11-21T13:30:00+00:00,Verint Systems Inc
+0,2022-11-21T13:30:01+00:00,Equinix Inc
+1,2022-11-21T13:33:00+00:00,Natera Inc
+-1,2022-11-21T13:35:23+00:00,STRATTEC SECURITY CORPORATION Common Stock
+-1,2022-11-21T13:36:00+00:00,Zoom Video Communications Inc
+0,2022-11-21T13:38:01+00:00,Lamar Advertising Company Class A Common Stock
+-1,2022-11-21T13:38:50+00:00,Broadcom Inc
+1,2022-11-21T13:42:04+00:00,Palo Alto Networks Inc
+-1,2022-11-21T13:42:27+00:00,Ultragenyx Pharmaceutical Inc
+1,2022-11-21T13:44:01+00:00,American Airlines Group Inc
+1,2022-11-21T13:45:00+00:00,Ideanomics Inc
+0,2022-11-21T13:48:00+00:00,Bioventus Inc
+0,2022-11-21T13:48:01+00:00,Lantheus Holdings Inc
+0,2022-11-21T13:48:01+00:00,TG Therapeutics Inc
+1,2022-11-21T13:48:58+00:00,PubMatic Inc
+0,2022-11-21T13:50:01+00:00,Bel Fuse Inc
+1,2022-11-21T13:50:01+00:00,BioVie Inc
+0,2022-11-21T13:50:01+00:00,Encore Wire Corporation Common Stock
+1,2022-11-21T13:50:01+00:00,EverQuote Inc
+1,2022-11-21T13:50:01+00:00,Grand Canyon Education Inc
+1,2022-11-21T13:50:01+00:00,Western New England Bancorp Inc
+0,2022-11-21T13:51:02+00:00,The Kraft Heinz Company Common Stock
+1,2022-11-21T13:55:20+00:00,Seagen Inc
+1,2022-11-21T14:00:00+00:00,Caribou Biosciences Inc
+0,2022-11-21T14:00:00+00:00,Cogent Communications Holdings Inc
+0,2022-11-21T14:00:00+00:00,First Citizens BancShares Inc
+0,2022-11-21T14:00:00+00:00,First Citizens BancShares Inc
+0,2022-11-21T14:00:00+00:00,First Citizens BancShares Inc
+0,2022-11-21T14:00:00+00:00,Great Elm Group Inc
+0,2022-11-21T14:00:00+00:00,IAC Inc
+0,2022-11-21T14:00:00+00:00,Information Services Group Inc

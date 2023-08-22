@@ -1,0 +1,104 @@
+LLM_score,date,company
+-1,2022-11-21T19:29:00+00:00,MicroStrategy Incorporated Common Stock Class A
+1,2022-11-21T19:30:00+00:00,Washington Trust Bancorp Inc
+0,2022-11-21T19:31:07+00:00,Adobe Inc
+-1,2022-11-21T19:36:05+00:00,DraftKings Inc
+0,2022-11-21T19:37:21+00:00,Harmonic Inc
+0,2022-11-21T19:37:21+00:00,Robinhood Markets Inc
+1,2022-11-21T19:59:26+00:00,SPS Commerce Inc
+0,2022-11-21T20:00:18+00:00,Denny's Corporation Common Stock
+0,2022-11-21T20:10:28+00:00,Airbnb Inc
+0,2022-11-21T20:10:28+00:00,Zillow Group Inc
+0,2022-11-21T20:10:28+00:00,Zillow Group Inc
+-1,2022-11-21T20:14:13+00:00,DraftKings Inc
+-1,2022-11-21T20:16:02+00:00,DraftKings Inc
+-1,2022-11-21T20:18:00+00:00,Roku Inc
+-1,2022-11-21T20:28:30+00:00,T-Mobile US Inc
+0,2022-11-21T20:30:00+00:00,TuSimple Holdings Inc
+1,2022-11-21T20:31:38+00:00,Activision Blizzard Inc
+0,2022-11-21T20:31:44+00:00,Expeditors International of Washington Inc
+0,2022-11-21T20:35:00+00:00,Fox Corporation Class A Common Stock
+0,2022-11-21T20:35:00+00:00,Fox Corporation Class B Common Stock
+-1,2022-11-21T20:45:00+00:00,DraftKings Inc
+-1,2022-11-21T20:45:09+00:00,Coinbase Global Inc
+1,2022-11-21T20:47:58+00:00,Palo Alto Networks Inc
+0,2022-11-21T20:49:26+00:00,SoFi Technologies Inc
+-1,2022-11-21T20:50:43+00:00,Rivian Automotive Inc
+-1,2022-11-21T20:59:33+00:00,Wynn Resorts Limited Common stock
+0,2022-11-21T21:00:00+00:00,Arrowhead Pharmaceuticals Inc
+1,2022-11-21T21:00:00+00:00,TriCo Bancshares Common Stock
+1,2022-11-21T21:01:00+00:00,Avita Medical Inc
+1,2022-11-21T21:01:00+00:00,Biodesix Inc
+1,2022-11-21T21:01:00+00:00,Hingham Institution for Savings Common Stock
+0,2022-11-21T21:01:00+00:00,Personalis Inc
+0,2022-11-21T21:01:00+00:00,WW International Inc
+-1,2022-11-21T21:01:00+00:00,scPharmaceuticals Inc
+0,2022-11-21T21:02:00+00:00,Enanta Pharmaceuticals Inc
+0,2022-11-21T21:05:00+00:00,4D Molecular Therapeutics Inc
+0,2022-11-21T21:05:00+00:00,Adaptive Biotechnologies Corporation Common Stock
+0,2022-11-21T21:05:00+00:00,Azenta Inc
+0,2022-11-21T21:05:00+00:00,Central Garden & Pet Company Class A Common Stock Nonvoting
+1,2022-11-21T21:05:00+00:00,Central Garden & Pet Company Common Stock
+0,2022-11-21T21:05:00+00:00,Cytek Biosciences Inc
+1,2022-11-21T21:05:00+00:00,Financial Institutions Inc
+0,2022-11-21T21:05:00+00:00,Heron Therapeutics Inc
+1,2022-11-21T21:05:00+00:00,ICF International Inc
+0,2022-11-21T21:05:00+00:00,KLA Corporation Common Stock
+0,2022-11-21T21:05:00+00:00,Larimar Therapeutics Inc
+0,2022-11-21T21:05:00+00:00,Paratek Pharmaceuticals Inc
+1,2022-11-21T21:05:00+00:00,Prothena Corporation plc Ordinary Shares
+1,2022-11-21T21:05:00+00:00,Roku Inc
+0,2022-11-21T21:05:00+00:00,Sabra Health Care REIT Inc
+0,2022-11-21T21:05:00+00:00,Tactile Systems Technology Inc
+1,2022-11-21T21:05:00+00:00,Turtle Beach Corporation Common Stock
+0,2022-11-21T21:05:00+00:00,Urban Outfitters Inc
+0,2022-11-21T21:05:00+00:00,Varonis Systems Inc
+1,2022-11-21T21:05:00+00:00,Veeco Instruments Inc
+1,2022-11-21T21:05:00+00:00,Zoom Video Communications Inc
+0,2022-11-21T21:07:23+00:00,Origin Materials Inc
+1,2022-11-21T21:08:25+00:00,Zoom Video Communications Inc
+0,2022-11-21T21:09:00+00:00,Pegasystems Inc
+1,2022-11-21T21:09:03+00:00,Digital World Acquisition Corp
+1,2022-11-21T21:10:00+00:00,Golub Capital BDC Inc
+-1,2022-11-21T21:10:28+00:00,Zoom Video Communications Inc
+0,2022-11-21T21:11:00+00:00,Match Group Inc
+-1,2022-11-21T21:12:19+00:00,DraftKings Inc
+-1,2022-11-21T21:13:27+00:00,Zoom Video Communications Inc
+0,2022-11-21T21:15:00+00:00,Cadence Design Systems Inc
+0,2022-11-21T21:15:00+00:00,Construction Partners Inc
+0,2022-11-21T21:15:00+00:00,PacWest Bancorp Common Stock
+0,2022-11-21T21:15:00+00:00,Powell Industries Inc
+0,2022-11-21T21:15:00+00:00,Ryvyl Inc
+0,2022-11-21T21:15:00+00:00,South Plains Financial Inc
+0,2022-11-21T21:15:00+00:00,StoneX Group Inc
+0,2022-11-21T21:15:00+00:00,Symbotic Inc
+1,2022-11-21T21:15:00+00:00,Treace Medical Concepts Inc
+1,2022-11-21T21:15:37+00:00,Steel Dynamics Inc
+0,2022-11-21T21:16:00+00:00,Inter Parfums Inc
+0,2022-11-21T21:20:00+00:00,Air Transport Services Group Inc
+0,2022-11-21T21:24:10+00:00,Papa John's International Inc
+-1,2022-11-21T21:25:19+00:00,Affirm Holdings Inc
+-1,2022-11-21T21:25:19+00:00,Upstart Holdings Inc
+1,2022-11-21T21:29:00+00:00,Urban Outfitters Inc
+0,2022-11-21T21:29:25+00:00,Sotera Health Company Common Stock
+0,2022-11-21T21:30:00+00:00,Farmers & Merchants Bancorp Inc
+1,2022-11-21T21:30:00+00:00,Fulton Financial Corporation Common Stock
+1,2022-11-21T21:30:00+00:00,MVB Financial Corp
+0,2022-11-21T21:30:00+00:00,Neuronetics Inc
+0,2022-11-21T21:30:00+00:00,Shenandoah Telecommunications Co Common Stock
+1,2022-11-21T21:32:11+00:00,Zoom Video Communications Inc
+-1,2022-11-21T21:38:50+00:00,Paramount Global Class A Common Stock
+-1,2022-11-21T21:38:50+00:00,Paramount Global Class B Common Stock
+-1,2022-11-21T21:41:00+00:00,KVH Industries Inc
+-1,2022-11-21T21:44:00+00:00,Zoom Video Communications Inc
+-1,2022-11-21T21:45:30+00:00,Zoom Video Communications Inc
+0,2022-11-21T22:00:00+00:00,Cutera Inc
+1,2022-11-21T22:00:00+00:00,First Guaranty Bancshares Inc
+0,2022-11-21T22:00:00+00:00,SS&C Technologies Holdings Inc
+1,2022-11-21T22:00:00+00:00,Sotera Health Company Common Stock
+-1,2022-11-21T22:04:12+00:00,Coinbase Global Inc
+-1,2022-11-21T22:04:12+00:00,MicroStrategy Incorporated Common Stock Class A
+0,2022-11-21T22:08:00+00:00,Viracta Therapeutics Inc
+0,2022-11-21T22:08:07+00:00,Urban Outfitters Inc
+0,2022-11-21T22:08:07+00:00,Zoom Video Communications Inc
+0,2022-11-21T22:15:00+00:00,Bioventus Inc

@@ -1,0 +1,101 @@
+LLM_score,date,company
+0,2023-02-01T06:57:23+00:00,T-Mobile US Inc
+1,2023-02-01T07:00:00+00:00,ACI Worldwide Inc
+0,2023-02-01T07:02:00+00:00,Intel Corporation Common Stock
+-1,2023-02-01T07:07:29+00:00,Advanced Micro Devices Inc
+-1,2023-02-01T07:07:29+00:00,Electronic Arts Inc
+1,2023-02-01T07:44:00+00:00,Xos Inc
+-1,2023-02-01T08:05:34+00:00,T-Mobile US Inc
+1,2023-02-01T08:11:36+00:00,Intel Corporation Common Stock
+0,2023-02-01T08:33:51+00:00,Advanced Micro Devices Inc
+-1,2023-02-01T08:33:51+00:00,Electronic Arts Inc
+-1,2023-02-01T08:33:51+00:00,Intel Corporation Common Stock
+-1,2023-02-01T08:33:51+00:00,Match Group Inc
+-1,2023-02-01T08:33:51+00:00,Mondelez International Inc
+-1,2023-02-01T08:33:51+00:00,T-Mobile US Inc
+-1,2023-02-01T08:38:13+00:00,Advanced Micro Devices Inc
+-1,2023-02-01T08:38:13+00:00,Intel Corporation Common Stock
+0,2023-02-01T08:59:01+00:00,Pool Corporation Common Stock
+1,2023-02-01T09:21:18+00:00,Netflix Inc
+1,2023-02-01T09:21:18+00:00,Peloton Interactive Inc
+0,2023-02-01T09:24:09+00:00,Amgen Inc
+0,2023-02-01T09:31:09+00:00,Electronic Arts Inc
+-1,2023-02-01T09:32:05+00:00,PayPal Holdings Inc
+-1,2023-02-01T09:49:00+00:00,Intel Corporation Common Stock
+0,2023-02-01T09:55:00+00:00,Lantern Pharma Inc
+0,2023-02-01T10:00:10+00:00,Baker Hughes Company Class A Common Stock
+0,2023-02-01T10:00:10+00:00,Blink Charging Co
+0,2023-02-01T10:00:10+00:00,Canoo Inc
+0,2023-02-01T10:00:10+00:00,Cirrus Logic Inc
+0,2023-02-01T10:00:10+00:00,Cross Country Healthcare Inc
+0,2023-02-01T10:00:10+00:00,Enphase Energy Inc
+0,2023-02-01T10:00:10+00:00,Expedia Group Inc
+0,2023-02-01T10:00:10+00:00,IDEXX Laboratories Inc
+0,2023-02-01T10:00:10+00:00,Kforce Inc
+0,2023-02-01T10:00:10+00:00,Paylocity Holding Corporation Common Stock
+0,2023-02-01T10:00:10+00:00,Tradeweb Markets Inc
+-1,2023-02-01T10:01:04+00:00,Central Garden & Pet Company Class A Common Stock Nonvoting
+-1,2023-02-01T10:01:04+00:00,Central Garden & Pet Company Common Stock
+1,2023-02-01T10:03:35+00:00,SmartFinancial Inc
+-1,2023-02-01T10:04:29+00:00,Territorial Bancorp Inc
+1,2023-02-01T10:05:21+00:00,Capital Bancorp Inc
+-1,2023-02-01T10:06:20+00:00,First Foundation Inc
+-1,2023-02-01T10:08:51+00:00,First Interstate BancSystem Inc
+0,2023-02-01T10:09:10+00:00,Advanced Micro Devices Inc
+0,2023-02-01T10:10:40+00:00,First Financial Bancorp
+-1,2023-02-01T10:12:25+00:00,Ponce Financial Group Inc
+-1,2023-02-01T10:14:10+00:00,Meridian Corporation Common Stock
+0,2023-02-01T10:15:00+00:00,QUALCOMM Incorporated Common Stock
+0,2023-02-01T10:15:00+00:00,Texas Instruments Incorporated Common Stock
+1,2023-02-01T10:15:01+00:00,First Hawaiian Inc
+1,2023-02-01T10:16:47+00:00,Walgreens Boots Alliance Inc
+1,2023-02-01T10:17:39+00:00,Colony Bankcorp Inc
+0,2023-02-01T10:18:01+00:00,Superior Group of Companies Inc
+1,2023-02-01T10:19:23+00:00,Capitol Federal Financial Inc
+0,2023-02-01T10:20:10+00:00,Baker Hughes Company Class A Common Stock
+1,2023-02-01T10:21:00+00:00,Walgreens Boots Alliance Inc
+1,2023-02-01T10:21:08+00:00,Westamerica Bancorporation Common Stock
+1,2023-02-01T10:22:01+00:00,Premier Inc
+1,2023-02-01T10:23:46+00:00,Nexstar Media Group Inc
+0,2023-02-01T10:24:00+00:00,Advanced Micro Devices Inc
+0,2023-02-01T10:24:00+00:00,Peloton Interactive Inc
+-1,2023-02-01T10:24:40+00:00,HomeStreet Inc
+0,2023-02-01T10:25:00+00:00,Intel Corporation Common Stock
+1,2023-02-01T10:25:34+00:00,MidWestOne Financial Gp Common Stock
+1,2023-02-01T10:27:19+00:00,Republic Bancorp Inc
+0,2023-02-01T10:28:29+00:00,Citizens & Northern Corp Common Stock
+-1,2023-02-01T10:29:00+00:00,AGNC Investment Corp
+-1,2023-02-01T10:29:00+00:00,AGNC Investment Corp
+-1,2023-02-01T10:29:00+00:00,AGNC Investment Corp
+-1,2023-02-01T10:29:00+00:00,AGNC Investment Corp
+1,2023-02-01T10:30:00+00:00,Applied Materials Inc
+0,2023-02-01T10:30:00+00:00,Hasbro Inc
+1,2023-02-01T10:30:00+00:00,Intel Corporation Common Stock
+0,2023-02-01T10:30:00+00:00,Splunk Inc
+1,2023-02-01T10:30:09+00:00,Greenwich LifeSciences Inc
+0,2023-02-01T10:35:33+00:00,Intel Corporation Common Stock
+-1,2023-02-01T10:40:00+00:00,CrowdStrike Holdings Inc
+1,2023-02-01T10:42:00+00:00,Tractor Supply Company Common Stock
+-1,2023-02-01T10:46:09+00:00,Financial Institutions Inc
+-1,2023-02-01T10:49:41+00:00,Advanced Micro Devices Inc
+-1,2023-02-01T10:49:41+00:00,Electronic Arts Inc
+1,2023-02-01T10:50:50+00:00,Sanmina Corporation Common Stock
+-1,2023-02-01T10:51:02+00:00,First Mid Bancshares Inc
+0,2023-02-01T10:52:00+00:00,Electronic Arts Inc
+0,2023-02-01T10:52:00+00:00,Match Group Inc
+1,2023-02-01T10:52:00+00:00,Vertex Pharmaceuticals Incorporated Common Stock
+-1,2023-02-01T10:53:00+00:00,Intel Corporation Common Stock
+0,2023-02-01T10:55:00+00:00,Ares Capital Corporation Common Stock
+1,2023-02-01T11:00:00+00:00,Eagle Bancorp Inc
+0,2023-02-01T11:00:00+00:00,Exact Sciences Corporation Common Stock
+0,2023-02-01T11:00:00+00:00,IDEAYA Biosciences Inc
+-1,2023-02-01T11:00:00+00:00,Moderna Inc
+0,2023-02-01T11:00:00+00:00,Newmark Group Inc
+-1,2023-02-01T11:00:00+00:00,Novavax Inc
+0,2023-02-01T11:00:00+00:00,Okta Inc
+0,2023-02-01T11:00:00+00:00,Sabra Health Care REIT Inc
+1,2023-02-01T11:00:00+00:00,The Ensign Group Inc
+-1,2023-02-01T11:00:24+00:00,Charter Communications Inc
+0,2023-02-01T11:00:27+00:00,Regeneron Pharmaceuticals Inc
+1,2023-02-01T11:00:28+00:00,Advanced Micro Devices Inc
+0,2023-02-01T11:05:00+00:00,CrowdStrike Holdings Inc

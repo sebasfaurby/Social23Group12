@@ -1,0 +1,45 @@
+LLM_score,date,company
+0,2023-02-28T13:00:00+00:00,Lamar Advertising Company Class A Common Stock
+1,2023-02-28T13:00:00+00:00,Magnite Inc
+1,2023-02-28T13:00:00+00:00,NextGen Healthcare Inc
+1,2023-02-28T13:00:00+00:00,Ocular Therapeutix Inc
+1,2023-02-28T13:00:00+00:00,Outbrain Inc
+1,2023-02-28T13:00:00+00:00,Ovid Therapeutics Inc
+0,2023-02-28T13:00:00+00:00,Pacira BioSciences Inc
+0,2023-02-28T13:00:00+00:00,Perficient Inc
+0,2023-02-28T13:00:00+00:00,Phathom Pharmaceuticals Inc
+0,2023-02-28T13:00:00+00:00,Porch Group Inc
+-1,2023-02-28T13:00:00+00:00,QUALCOMM Incorporated Common Stock
+0,2023-02-28T13:00:00+00:00,Qorvo Inc
+1,2023-02-28T13:00:00+00:00,Roper Technologies Inc
+1,2023-02-28T13:00:00+00:00,SP Plus Corporation Common Stock
+1,2023-02-28T13:00:00+00:00,Sutro Biopharma Inc
+1,2023-02-28T13:00:00+00:00,Sutro Biopharma Inc
+1,2023-02-28T13:00:00+00:00,T-Mobile US Inc
+0,2023-02-28T13:00:00+00:00,The Oncology Institute Inc
+0,2023-02-28T13:00:00+00:00,Twist Bioscience Corporation Common Stock
+0,2023-02-28T13:00:00+00:00,Ventyx Biosciences Inc
+0,2023-02-28T13:00:00+00:00,Viridian Therapeutics Inc
+0,2023-02-28T13:00:00+00:00,Westrock Coffee Company Common Stock
+0,2023-02-28T13:00:00+00:00,Whole Earth Brands Inc
+0,2023-02-28T13:00:00+00:00,iHeartMedia Inc
+0,2023-02-28T13:00:01+00:00,RAPT Therapeutics Inc
+-1,2023-02-28T13:00:13+00:00,Regeneron Pharmaceuticals Inc
+-1,2023-02-28T13:00:17+00:00,QUALCOMM Incorporated Common Stock
+0,2023-02-28T13:00:47+00:00,Advanced Micro Devices Inc
+0,2023-02-28T13:00:47+00:00,Intel Corporation Common Stock
+0,2023-02-28T13:00:47+00:00,QUALCOMM Incorporated Common Stock
+0,2023-02-28T13:05:00+00:00,Harmony Biosciences Holdings Inc
+0,2023-02-28T13:05:00+00:00,NetScout Systems Inc
+0,2023-02-28T13:05:00+00:00,Rigel Pharmaceuticals Inc
+0,2023-02-28T13:05:00+00:00,Silicon Laboratories Inc
+0,2023-02-28T13:05:00+00:00,Spero Therapeutics Inc
+0,2023-02-28T13:08:00+00:00,Hologic Inc
+1,2023-02-28T13:12:00+00:00,Bandwidth Inc
+-1,2023-02-28T13:16:00+00:00,Netflix Inc
+0,2023-02-28T13:16:01+00:00,Fortinet Inc
+1,2023-02-28T13:16:01+00:00,Palo Alto Networks Inc
+0,2023-02-28T13:16:01+00:00,Varonis Systems Inc
+0,2023-02-28T13:18:00+00:00,Celsius Holdings Inc
+0,2023-02-28T13:20:00+00:00,Netflix Inc
+0,2023-02-28T13:20:01+00:00,Beyond Meat Inc
